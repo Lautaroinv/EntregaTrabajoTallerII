@@ -1,0 +1,10 @@
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico1\bin\Debug\Practico1.exe.config
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico1\bin\Debug\Practico1.exe
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico1\bin\Debug\Practico1.pdb
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico1\obj\Debug\Practico1.csproj.AssemblyReference.cache
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico1\obj\Debug\Practico1.Formulario1.resources
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico1\obj\Debug\Practico1.Properties.Resources.resources
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico1\obj\Debug\Practico1.csproj.GenerateResource.cache
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico1\obj\Debug\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico1\obj\Debug\Practico1.exe
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico1\obj\Debug\Practico1.pdb
