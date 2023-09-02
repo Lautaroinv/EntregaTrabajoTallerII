@@ -1,0 +1,10 @@
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico4\bin\Debug\Practico4.exe.config
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico4\bin\Debug\Practico4.exe
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico4\bin\Debug\Practico4.pdb
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico4\obj\Debug\Practico4.csproj.AssemblyReference.cache
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico4\obj\Debug\Practico4.Properties.Resources.resources
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico4\obj\Debug\Practico4.csproj.GenerateResource.cache
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico4\obj\Debug\Practico4.csproj.CoreCompileInputs.cache
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico4\obj\Debug\Practico4.exe
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico4\obj\Debug\Practico4.pdb
+C:\Users\Lauch\OneDrive\Escritorio\Escritorio 3\Facultad 2023\Taller de Programación II\Practicos resueltos\Practico4\obj\Debug\Practico4.Practico4.resources
